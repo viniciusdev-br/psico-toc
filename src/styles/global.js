@@ -8,11 +8,8 @@ export const GlobalStyle = createGlobalStyle`
         --yellowStatistic: #FFF3B8;
         --blue: #1B74E4;
         --lightBlue: #D1FFFF;
+        --lightGreen: #D0FCE4;
     }
-
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
 
     * {
         margin: 0;
@@ -23,5 +20,6 @@ export const GlobalStyle = createGlobalStyle`
     body {
         font-family: 'Poppins', sans-serif;
         background-color: #FFF;
+        color: var(--textColor);
     }
 `
