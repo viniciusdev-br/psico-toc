@@ -10,14 +10,18 @@ export const GlobalStyle = createGlobalStyle`
         --lightBlue: #D1FFFF;
     }
 
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
     * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
     }
 
-    body, p {
+    body {
         font-family: 'Poppins', sans-serif;
-        background-color: #1B74E4;
+        background-color: #FFF;
     }
 `

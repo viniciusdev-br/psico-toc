@@ -23,8 +23,8 @@ export const Container = styled.div`
         main {
             background: var(--yellowCard);
             width: 70%;
-            height: 70%;
             margin: auto;
+            padding-bottom: 50px;
             color: var(--textColor);
             border-radius: 10px;
             box-shadow: 5px 5px 20px rgba(0,0,0,0.25);
@@ -43,7 +43,7 @@ export const Container = styled.div`
                 width: 90%;
                 margin: auto;
                 margin-left: 60px;
-                margin-top: 50px;
+                margin-top: 40px;
                 font-family: Poppins;
                 font-style: normal;
                 font-weight: 500;
