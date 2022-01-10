@@ -3,6 +3,8 @@ import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { InWork } from './components/InWork';
 import { MoreSymptoms } from './components/MoreSymptoms';
+import { Statistic } from './components/statistic';
+
 import { GlobalStyle } from './styles/global'
 
 function App() {
@@ -13,6 +15,7 @@ function App() {
       <Description />
       <MoreSymptoms />
       <InWork />
+      <Statistic />
       <GlobalStyle/>
     </>
   );
