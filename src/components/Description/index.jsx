@@ -4,7 +4,7 @@ import description1 from '../../assets/description1.png'
 export function Description() {
     return (
         <Container>
-            <div className="cardDescription">
+            <div className="cardDescription" id="description"> 
                 <img src={description1} alt="Imagem de apoio para o texto sobre TOC" />
                 <div>
                     <h3>O que é TOC</h3>

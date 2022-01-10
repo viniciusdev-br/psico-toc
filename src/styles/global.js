@@ -21,5 +21,8 @@ export const GlobalStyle = createGlobalStyle`
         font-family: 'Poppins', sans-serif;
         background-color: #FFF;
         color: var(--textColor);
+        scroll-behavior: smooth;
+        -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
     }
 `

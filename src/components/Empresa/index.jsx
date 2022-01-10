@@ -4,7 +4,7 @@ import empresa2 from '../../assets/empresa2.png';
 
 export function Empresa() {
     return(
-        <Container>
+        <Container id="empresa">
 
             <div>
                 <LeftFild>

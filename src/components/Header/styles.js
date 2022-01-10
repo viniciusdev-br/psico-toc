@@ -27,21 +27,22 @@ export const Content = styled.div`
                 color: var(--textColor);
                 margin: auto 0px;
 
+                
             }
-
-            button {
+            .call-empresa {
+                color: var(--background);
                 background-color: var(--textColor);
                 border: none;
                 border-radius: 3px;
                 height: 100%;
                 font-size: 18pt;
-                color: #FFF;
                 padding: 5px;
                 cursor: pointer;
                 transition: 200ms;
 
                 :hover {
                     padding: 8px;
+                    color: #FFF;
                 }
             }
         }

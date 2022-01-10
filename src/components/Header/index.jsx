@@ -7,9 +7,9 @@ export function Header() {
             <Content>
                 <img src={logoImg} alt="logo da universidade"/>
                 <ul>
-                    <li><a href="#">Definição</a></li>
-                    <li><a href="#">Dicas</a></li>
-                    <li><button>Papel da empresa</button></li>
+                    <li><a href="#description">Definição</a></li>
+                    <li><a href="#tips">Dicas</a></li>
+                    <li><a href="#empresa" className="call-empresa">Papel da empresa</a></li>
                 </ul>
             </Content>
         </Container>
