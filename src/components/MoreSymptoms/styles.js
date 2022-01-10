@@ -10,6 +10,7 @@ export const Container = styled.section`
     h2 {
         text-align: center;
         font-size: 36pt;
+        font-weight: 500;
         margin-bottom: 40px;
     }
 `

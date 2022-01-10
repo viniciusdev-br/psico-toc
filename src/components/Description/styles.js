@@ -14,6 +14,7 @@ export const Container = styled.section`
 
         h3 {
             font-size: 36pt;
+            font-weight: 500;
             text-align: center;
         }
 
@@ -34,6 +35,7 @@ export const Container = styled.section`
         h3 {
             font-size: 36pt;
             text-align: center;
+            font-weight: 500;
         }
 
         div {
