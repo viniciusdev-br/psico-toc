@@ -8,6 +8,7 @@ export const GlobalStyle = createGlobalStyle`
         --yellowStatistic: #FFF3B8;
         --blue: #1B74E4;
         --lightBlue: #D1FFFF;
+        --green: #39AF5B;
         --lightGreen: #D0FCE4;
     }
 

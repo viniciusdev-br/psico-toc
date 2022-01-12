@@ -20,8 +20,7 @@ export function Statistic() {
                     <CardStatistic>
                         <img src={imgExample} alt="" />    
                         <p>Lorem ipsum senectus iaculis phasellus, in aliquam suscipit class, nec etiam hendrerit. faucibus sed suspendisse quisque eleifend quis sem  tempor pretium non,</p>
-                    </CardStatistic>
-                                    
+                    </CardStatistic>             
                 </div>
             </Content>
         </Container>
