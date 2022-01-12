@@ -1,12 +1,13 @@
 import {Container, LeftFild} from "./styles";
 import empresa1 from '../../assets/empresa1.png';
 import empresa2 from '../../assets/empresa2.png';
+import SectionEmpresa from '../../assets/SectionEmpresa.png'
 
 export function Empresa() {
     return(
         <Container id="empresa">
-
-            <div>
+            <img src={SectionEmpresa} alt="" />
+            {/* <div>
                 <LeftFild>
                     <h2>O que a empresa pode fazer</h2>
                     <ul>
@@ -27,7 +28,7 @@ export function Empresa() {
                         <li>Aplicar no mínimo 3 exemplos de comportamento operante no site</li>
                     </ul>
                 </LeftFild>
-            </div>
+            </div> */}
             
         </Container>
     )

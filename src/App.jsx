@@ -7,6 +7,7 @@ import { MoreSymptoms } from './components/MoreSymptoms';
 import { Statistic } from './components/statistic';
 import { Tips } from './components/Tips';
 
+
 import { GlobalStyle } from './styles/global'
 
 function App() {

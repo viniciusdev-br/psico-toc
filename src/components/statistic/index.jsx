@@ -1,6 +1,8 @@
 import { Container, Content, CardStatistic } from "./styles";
 
-import imgExample from '../../assets/statistic_example.png'
+import populacaoToc from '../../assets/tresporcento.png'
+import moreProblems from '../../assets/seis_oitoporcento.png'
+import tryDeath from '../../assets/trinta_e_seis_porcento.png'
 
 export function Statistic() {
     return (
@@ -10,16 +12,16 @@ export function Statistic() {
 
                 <div>
                     <CardStatistic>
-                        <img src={imgExample} alt="" />    
-                        <p>Lorem ipsum senectus iaculis phasellus, in aliquam suscipit class, nec etiam hendrerit. faucibus sed suspendisse quisque eleifend quis sem  tempor pretium non,</p>
+                        <img src={populacaoToc} alt="" />    
+                        <p>Considerando a população mundial, obtemos um número expressivo de 3% da população que sofre com o TOC</p>
                     </CardStatistic>
                     <CardStatistic>
-                        <img src={imgExample} alt="" />    
-                        <p>Lorem ipsum senectus iaculis phasellus, in aliquam suscipit class, nec etiam hendrerit. faucibus sed suspendisse quisque eleifend quis sem  tempor pretium non,</p>
+                        <img src={moreProblems} alt="" />    
+                        <p>O Transtorno Obsessivo-Compulsivo na maioria dos casos é apresentado com algum outro tipo de depressão, sendo esses 68% dos casos</p>
                     </CardStatistic>
                     <CardStatistic>
-                        <img src={imgExample} alt="" />    
-                        <p>Lorem ipsum senectus iaculis phasellus, in aliquam suscipit class, nec etiam hendrerit. faucibus sed suspendisse quisque eleifend quis sem  tempor pretium non,</p>
+                        <img src={tryDeath} alt="" />    
+                        <p>TOC é algo grave que não deve ser ignorado e deve ser tratado o quanto antes, pois em cerca de 36% dos casos já pensaram em se matar</p>
                     </CardStatistic>             
                 </div>
             </Content>

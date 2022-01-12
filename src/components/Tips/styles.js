@@ -4,6 +4,8 @@ export const Container = styled.section`
     max-width: 1280px;
     margin: auto;
     margin-bottom: 110px;
+
+
     h2 {
         text-align: center;
         color: #FFF;
