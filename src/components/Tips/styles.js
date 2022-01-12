@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.section`
     max-width: 1280px;
     margin: auto;
-
+    margin-bottom: 110px;
     h2 {
         text-align: center;
         color: #FFF;
@@ -28,7 +28,7 @@ export const ContainerCard = styled.div`
         color: #FFF;
         border-radius: 10px;
         text-align: center;
-
+        padding: 30px 5px;
         img {
             width: 132px;
         }

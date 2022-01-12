@@ -3,7 +3,7 @@ import ImgBookTips from '../../assets/book_tips.svg';
 
 export function Tips() {
     return(
-        <Container>
+        <Container id="tips">
             <h2>Dicas para dimiuir o TOC</h2>
             <ContainerCard>
                 <div>
