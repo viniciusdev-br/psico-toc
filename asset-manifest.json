@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/viniciusdev-br.github.io/psico-toc/static/js/main.ef271337.js",
+    "static/media/SectionEmpresa.png": "/viniciusdev-br.github.io/psico-toc/static/media/SectionEmpresa.6cde83a7edda987979fc.png",
+    "static/media/empresa1.png": "/viniciusdev-br.github.io/psico-toc/static/media/empresa1.e1d82b815de6660170a5.png",
+    "static/media/background-hero.png": "/viniciusdev-br.github.io/psico-toc/static/media/background-hero.604ed43bc0f8b1bad387.png",
+    "static/media/empresa2.png": "/viniciusdev-br.github.io/psico-toc/static/media/empresa2.0f0fe1782308bbfe5d8d.png",
+    "static/media/description1.png": "/viniciusdev-br.github.io/psico-toc/static/media/description1.c4edfb8f8478fdc81baf.png",
+    "static/media/in_work.png": "/viniciusdev-br.github.io/psico-toc/static/media/in_work.7a0f3ad9d64f82e4c8c2.png",
+    "static/media/more_sintomas1.png": "/viniciusdev-br.github.io/psico-toc/static/media/more_sintomas1.9e23cc65fb5fc5fe7481.png",
+    "static/media/more_sintomas2.png": "/viniciusdev-br.github.io/psico-toc/static/media/more_sintomas2.a99f3d03e1ab469073bf.png",
+    "static/media/logo-ufpa.svg": "/viniciusdev-br.github.io/psico-toc/static/media/logo-ufpa.585ddfcd7aada2873c7623c7d3d5f0be.svg",
+    "static/media/seis_oitoporcento.png": "/viniciusdev-br.github.io/psico-toc/static/media/seis_oitoporcento.ce9605e8a3402dc3b431.png",
+    "static/media/trinta_e_seis_porcento.png": "/viniciusdev-br.github.io/psico-toc/static/media/trinta_e_seis_porcento.582193ad748304697c87.png",
+    "static/media/tresporcento.png": "/viniciusdev-br.github.io/psico-toc/static/media/tresporcento.a46148fb90ac1f0cd210.png",
+    "static/media/groups.svg": "/viniciusdev-br.github.io/psico-toc/static/media/groups.06eb0f7f211cdf8e2daa5991bff66f34.svg",
+    "index.html": "/viniciusdev-br.github.io/psico-toc/index.html",
+    "static/media/medic.svg": "/viniciusdev-br.github.io/psico-toc/static/media/medic.5677f0171744517e97fd2b8e0200b47b.svg",
+    "static/media/terapeuta.svg": "/viniciusdev-br.github.io/psico-toc/static/media/terapeuta.2f6c531bab4f67154b8c4c16f0051604.svg",
+    "main.ef271337.js.map": "/viniciusdev-br.github.io/psico-toc/static/js/main.ef271337.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef271337.js"
+  ]
+}
